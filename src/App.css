@@ -1,0 +1,93 @@
+body{
+  margin: 0;
+}
+h1{
+  text-align: center;
+  color: #fff;
+  background-color: #655D8A;
+  margin: 0;
+  padding: 32px;
+}
+button{
+  border: 2px solid #7897AB;
+  color: #fff;
+  background-color: #7897AB;
+  height: 46px;
+  width: 100px;
+  font-size: 20px;
+  margin-left: 5px;
+}
+button:hover{
+  opacity: 0.8;
+}
+input{
+  border: 2px solid #7897AB;
+  width: 250px;
+  height: 40px;
+  font-size: 20px;
+  padding-left: 20px;
+}
+.content{
+  display: flex;
+  justify-content: center;
+  margin-top: 60px;
+}
+.height-content{
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50px;
+}
+.height-content div{
+  color: #000;
+  font-weight: bold;
+  font-size: 30px;
+}
+.height-content button{
+  border: 2px solid #7897AB;
+  border-radius: 5px;
+  background-color: #7897AB;
+  height: 40px;
+  font-size: 15px;
+  margin-left: 20px;
+  width: auto;
+}
+.weight-input input{
+  border: 2px solid #D885A3;
+}
+.weight-input button{
+  border: 2px solid #D885A3;
+  background-color: #D885A3;
+  font-size: 18px;
+  width: 120px;
+}
+.weight-content{
+  margin-top: 50px;
+}
+.weight-content table{
+  width: 100%;
+  font-size: 20px;
+}
+th,td{
+  border-bottom: 1px solid #D885A3;
+  padding: 8px;
+  text-align: center;
+}
+th{
+  color: #D885A3;
+}
+.updateWeight-input{
+  height: 25px;
+  font-size: 18px;
+  width: 45px;
+  /* border:none; */
+}
+.updateWeight-btn{
+  height: 30px;
+  font-size: 10px;
+  width: auto;
+}
+.weight-content-comment{
+  font-size: 18px;
+  margin-top: 30px;
+  font-weight: bold;
+}
