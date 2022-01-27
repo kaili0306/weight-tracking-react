@@ -1,4 +1,7 @@
-# A liitle bit about this project
+# A little bit about this project
+## Introduction
+This simple project is to track BMI by entering height and weight. 
+
 versions used: 
 node - v16.13.2
 npm - v8.1.2
