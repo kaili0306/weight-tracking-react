@@ -1,3 +1,13 @@
+# A liitle bit about this project
+versions used: 
+node - v16.13.2
+npm - v8.1.2
+react - v17.0.2
+
+Additional libraries used:
+moment - v2.29.1
+uuid - v8.3.2
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
